@@ -1,0 +1,72 @@
+Results for http://ugd4iog5oqrmqcafvkhjoo452m4j2btbdj2r54gb4vrf6wc54w3fx2qd.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://c7fhkjrlsssaszlntvuyjj2wljbuzqihqspmayh7vb5i5fv753zhw2id.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://torliwgjh23isvj7mlwgg2abf3h4ymsf6fmwmeplxldg2sdny2wff7yd.onion/:
+  user: Not Found
+   data: Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://aj2ddo7fnirw7pawvpsgv4jipf36cdb75ves5fnsyavxogacriyeybid.onion/:
+  user: Not Found
+   data: Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://pwioa25s3im2574dnyzch2joefrha3ubngypp4czrz7uewbk3ds3jpad.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://trippyopfz4wjve4nijrrqmsjpu5upbdyxua3g7l7op53cjlbsprkbid.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://irdgjp2jykd3jv45m2txwivuck6oqzmjy5il27axkdodt56ojeeklcqd.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Found
+   doller: Not Found
+
+Results for http://5nfcbgphq6vs7nljgdybtumjb6hhfoudeqa3dlvu6eql7xejqqcelfid.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
+Results for http://nakedclih3wb74xituhfq53byhzdjax45fsffajkt6kehvulp3pcdsqd.onion/:
+  user: Not Found
+   data: Not Found
+   password: Not Found
+   leak: Not Found
+   money: Not Found
+   doller: Not Found
+
